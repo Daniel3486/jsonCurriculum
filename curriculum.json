@@ -1,0 +1,38 @@
+{
+  "header": {
+    "name": "DANIEL LOZANO",
+    "title": "Ing. en Ciencias De La Computación"
+  },
+  "contact": {
+    "phone": "6141914713",
+    "email": "a348603@uach.mx",
+    “location”: “Chihuahua, Chihuahua, México”
+  },
+  "experience": [
+    {
+      "company": "",
+      "position": "",
+      "dates": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "university": "Universidad Autónoma de Chihuahua",
+      "degree": "Ingeniero en Ciencias de la Computación"
+      "dates": "18/08/2020 - 1/12/2024"
+    }
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Bases de Datos",
+    "HTML",
+    "Linux",
+    "Windows"
+  ],
+  "languages": [
+    "Español",
+    "Inglés Básico"
+  ]
+}
